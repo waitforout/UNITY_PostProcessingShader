@@ -1,4 +1,4 @@
-# Unity后处理相关Shader
+# Unity后处理相关
 上传的比较匆忙来不及整理整个项目，就直接把[【Unity Shader】一些后处理效果-均值模糊|高斯模糊|边缘检测|Bloom|GodRay](https://www.bilibili.com/video/BV1hG4y1f7je/?spm_id_from=333.999.0.0&vd_source=df915e2f42f68699ce7f9d08e53731c5)这个视频里的几个后处理效果的Shader和脚本直接放上来了，有点乱请见谅。
 # CSDN相关文章
 之前实现的时候有写总结的文章，这里也放过来吧：
